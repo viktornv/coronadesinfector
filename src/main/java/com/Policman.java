@@ -1,6 +1,6 @@
 package com;
 
-public interface Policmen {
+public interface Policman {
 
     void makePeopleLeaveRoom();
 
